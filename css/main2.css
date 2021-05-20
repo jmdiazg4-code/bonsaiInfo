@@ -1,0 +1,40 @@
+body{
+	font-family: 'Lato', sans-serif;
+
+}
+header{
+	padding-top: 25px;
+}
+.verde{
+	color: #435934;
+}
+.se-gris{
+	background-color: #eee;
+}
+.grande{
+	font-size: 4em;
+}
+/*carrousel*/
+
+/*
+#slider-home{
+	width: 100%;
+    height: 500px; 
+    overflow: hidden;
+    position: relative;
+}
+*/
+
+/* Pag Reservas*/
+.menu-bar{
+	background-color: #435934;
+	margin-top: 20px;
+}
+
+.menu-list{
+	padding: 12px 0;
+	margin-bottom: 0;
+}
+.menu-list > li:not(:last-child){
+	margin-right: 40px;
+}
